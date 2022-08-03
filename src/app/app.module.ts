@@ -5,12 +5,14 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { JitsiComponent } from './jitsi/jitsi.component';
 import { ThankYouComponent } from './thank-you/thank-you.component';
+import { TurnoComponent } from './turnos/turno.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     JitsiComponent,
-    ThankYouComponent
+    ThankYouComponent,
+    TurnoComponent
   ],
   imports: [
     BrowserModule,
