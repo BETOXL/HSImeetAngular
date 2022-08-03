@@ -1,8 +1,8 @@
-# JitsiAngular
+# JitsiAngular HSI
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
 
-<p align="center"><img src="https://github.com/ultimateakash/JitsiAngular/blob/master/src/assets/images/JitsiAngular.png"></p>
+<p align="center"><img src="https://github.com/BETOXL/HSImeetAngular/blob/main/src/assets/images/JitsiAngular.png"></p>
 
 ## Development server
 
@@ -18,7 +18,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://BETOXL.github.io).
+Run `ng test` to execute the unit tests via [BETOXL](https://BETOXL.github.io).
 
 ## Running end-to-end tests
 
