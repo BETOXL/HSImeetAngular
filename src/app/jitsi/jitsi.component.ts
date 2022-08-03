@@ -26,7 +26,7 @@ export class JitsiComponent implements OnInit, AfterViewInit {
     ngOnInit(): void {
         this.room = 'turno-141458'; // set your room name
         this.user = {
-            name: 'Invitado ' + Math.floor(Math.random() * 300)// set your username
+            name: 'Paciente ' + Math.floor(Math.random() * 300)// set your username
         }
     }
 
